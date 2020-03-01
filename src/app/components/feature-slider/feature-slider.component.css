@@ -1,0 +1,12 @@
+.cnt {
+	display: grid;
+	grid-template-columns: 1fr 1.5fr;
+}
+
+img {
+	width: 700px;
+}
+
+.title {
+	font-family: 'Pacifico', 'Helvetica', 'sans-serif';
+}
