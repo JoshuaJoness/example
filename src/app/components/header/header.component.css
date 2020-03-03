@@ -1,11 +1,9 @@
-.logo {
-	font-size: 60px;
+.search {
+	color: salmon;
+	border: solid 1px salmon;
 }
 
-.header {
-	background-color: salmon;
-	width: 100vw;
-}
-.navbar {
+.search:hover{
+	color: white;
 	background-color: salmon;
 }

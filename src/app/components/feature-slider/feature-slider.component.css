@@ -5,8 +5,14 @@
 
 img {
 	width: 700px;
+	margin-left: 45%;
+	margin-top: 10%;
 }
 
 .title {
 	font-family: 'Pacifico', 'Helvetica', 'sans-serif';
+}
+
+.subtitle {
+	margin-top: 25%;
 }
